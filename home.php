@@ -6,4 +6,4 @@
  * Time: 下午5:26
  */
 
-print "hello";
+print "hello world";
